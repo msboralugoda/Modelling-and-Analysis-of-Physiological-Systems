@@ -20,23 +20,8 @@ Working on this model helped me understand:
 - How structural symmetries (e.g., equal branch diameters) influence voltage uniformity in dendritic trees.
 - How simple changes to system inputs or conditions (e.g., killed vs active ends) lead to significantly different outcomes in voltage distribution.
 
-## 🛠️ MATLAB Files
 
-- `cable.m` – Defines the system matrix and physical parameters.
-- `main.m` – Contains the code for computing coefficients and plotting voltage profiles.
-- `images/` – Includes visual output from simulations.
 
-## 🖼️ Sample Visualizations
 
-Default voltage profile with standard boundary conditions:
-
-![Default Voltage Profile](images/voltage_profile_default.png)
-
-Voltage profiles under modified terminal conditions:
-
-![Condition 2b Profile](images/voltage_profile_2b.png)
-![Condition 2d Profile](images/voltage_profile_2d.png)
-
-## 📂 File Structure
 
 
